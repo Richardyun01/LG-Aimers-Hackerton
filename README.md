@@ -1,2 +1,2 @@
 # LG-Aimers-Hackerton
-Files submitted in LG Aimers Hackerton
+Representative files submitted in LG Aimers Hackerton
